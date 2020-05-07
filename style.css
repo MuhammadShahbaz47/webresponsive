@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+.header-1{
+    background-color: #316DC3;
+    padding-top:5px;
+    justify-content: center;
+}
+.spaceheader1{
+    padding: 2px;
+}
+.headerbuttons{
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 11px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    cursor: pointer;
+    background-color: rgb(248, 248, 248);
+    border: 1px solid #498500;
+}
+.nav-item a:hover{
+    background:#316DC3;
+    color:#fff;
+    border-radius: 20px;
+}
+span{
+    color: green;
+}
+.introheading{
+    color: rgb(57, 54, 206);
+}
+.total{
+    text-align: center;
+    background-color:rgb(51, 47, 255);
+    padding-top:80px;
+}
+.mb-md-50{
+    margin-bottom: 50px;
+}
+.span-green{
+    color: rgb(0, 255, 0);
+    font-size: 20px;
+}
+.text-size{
+    font-size:15px;
+}
+.box1,.box2,.box3,.box4,.box5,.box6 {
+    background-color: white;
+    width:350px;
+    height:180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 0px 10px -4px rgba(0,0,0,0.75);
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.projectbox{
+    width: 350px;
+    height:70px;
+    background-color: rgb(247, 248, 250);
+    border: 1px solid rgb(238, 238, 238);
+    display: flex;
+    align-items: center;
+}
+.page-footer{
+    background-color: rgb(36, 36, 41);
+}
+.footer2{
+    background-color: #316DC3;
+}
+.footercontact{
+    list-style-type: none;
+}
